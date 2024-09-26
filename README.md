@@ -1,4 +1,4 @@
-# ![Design sem nome](https://github.com/user-attachments/assets/d86aaf9b-dbc9-40e8-8f7a-aafab4534d89)
+# ![logo-official](logo-official.png)
 
 (https://github.com/gui201309/banco-de-imajns/releases)
 
