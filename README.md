@@ -1,6 +1,6 @@
 # ![logo-official](logo-official.png)
 
-!(https://github.com/gui201309/banco-de-imajns/releases)
+(https://github.com/gui201309/banco-de-imajns/releases)
 
 Bem-vindo ao banco de imagens aqui podera encontrar todo o tipo de imagens em letras
 
