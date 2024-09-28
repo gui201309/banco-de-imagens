@@ -3,7 +3,7 @@ set "cor= f0"
 cd abrir
 cd rigistro
 echo %time% %date% app aberta ,banco de imajens >> registro.txt
-echo %time% %date% v: 1.3.2 ,banco de imajens >> registro.txt
+echo %time% %date% v: 1.3.3 ,banco de imajens >> registro.txt
 color %cor%
 title "banco de imajens"
 timeout /t 2/nobreak >nul
