@@ -170,75 +170,8 @@ echo msbox"erro resposta invalida",vbcritical,"erro 249"> %temp%\erro.vbs
 start %temp%\erro.vbs
 
 
-:abelha
-echo %time% %date% abelha aberto ,banco de imajens >> registro.txt
-cls
-echo                      ��                           
-echo                     ����                          
-echo                     ���                           
-echo                    ��                             
-echo                    �                              
-echo                    �                              
-echo                    �                              
-echo  ���            �����������                       
-echo ������������  ����       ����        ���������    
-echo  ���       ����             ���   ����       ��   
-echo            ��          ��     �� ��           �   
-echo          ��           ���     ��             �   
-echo           �             ���    ��            ��   
-echo          ��    ��        ��    ��           ��    
-echo          ��    ���             ��          ��     
-echo           ��    ���    ��     ��          ��      
-echo            ��         ���    �������    ���       
-echo        �������              ����   ������������   
-echo     �����    ����        �����       ��       ��� 
-echo   ���           ������������        ����         �
-echo  �                 ��           ��������       �� 
-echo  ��                ��        ��������  ���������  
-echo   ���            �����  �����������   ��          
-echo     ��������������   ������������     �           
-echo               ��      �������        ��           
-echo               �         ���        ���            
-echo              ��        ��  �����������            
-echo              �        ��        ������            
-echo             �      ���             ��             
-echo               �������        
-pause
-goto menu
 
-:aranha
-echo %time% %date% aranha aberto ,banco de imajens >> registro.txt
-cls
-echo            $               $           
-echo          $$                 $$         
-echo         $$                   $$        
-echo        $$                     $$       
-echo        $$                     $$       
-echo        $$                     $$       
-echo         $$                   $$        
-echo     $$  $$                   $$  $$    
-echo    $$   $$                   $$   $$   
-echo   $$     $$                 $$     $$  
-echo   $       $$$             $$$       $  
-echo   $$       $$$           $$$       $$  
-echo   $$$       $$$  $$$$$  $$$       $$$  
-echo    $$$$$$    $$$$$$$$$$$$$   $$$$$$$   
-echo         $$$$$$$$$$$$$$$$$$$$$$         
-echo    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$    
-echo  $$$ $$$$$$$$$$$$$$$$$$$$$$$$$$ $$$   
-echo  $$$         $$$$$$$$$$$$         $$$  
-echo $$         $$$$$$$$$$$$$$$$$        $$ 
-echo $$     $$$$$$$$$$$$$$$$$$$$$$$$     $$ 
-echo $$     $$$  $$$$$$$$$$$$$$$$  $$$     $$
-echo $$    $$   $$$$$$$  $$$$$$$   $$    $$ 
-echo  $    $$   $$$$$$$  $$$$$$$   $$    $  
-echo   $   $$   $$$$$$$$$$$$$$$$   $$   $   
-echo    $  $$    $$$$$$$$$$$$$$    $$  $    
-echo       $$     $$$$$$$$$$$$     $$       
-echo       $$       $$$$$$$$       $$       
-echo        $$                    $$        
-pause
-goto menu
+
 
 :barbatana
 echo %time% %date% barbatana aberto ,banco de imajens >> registro.txt
