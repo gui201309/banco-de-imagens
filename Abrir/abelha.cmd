@@ -30,5 +30,3 @@ echo              ��        ��  �����������
 echo              �        ��        ������            
 echo             �      ���             ��             
 echo               �������        
-pause
-goto menu
