@@ -1,7 +1,5 @@
 @echo off
 set "cor= f0"
-cd abrir
-cd rigistro
 echo %time% %date% app aberta ,banco de imajens >> registro.txt
 echo %time% %date% v: 1.3.3 ,banco de imajens >> registro.txt
 color %cor%
@@ -170,6 +168,75 @@ echo msbox"erro resposta invalida",vbcritical,"erro 249"> %temp%\erro.vbs
 start %temp%\erro.vbs
 
 
+:abelha
+echo %time% %date% abelha aberto ,banco de imajens >> registro.txt
+cls
+echo                      ��                           
+echo                     ����                          
+echo                     ���                           
+echo                    ��                             
+echo                    �                              
+echo                    �                              
+echo                    �                              
+echo  ���            �����������                       
+echo ������������  ����       ����        ���������    
+echo  ���       ����             ���   ����       ��   
+echo            ��          ��     �� ��           �   
+echo          ��           ���     ��             �   
+echo           �             ���    ��            ��   
+echo          ��    ��        ��    ��           ��    
+echo          ��    ���             ��          ��     
+echo           ��    ���    ��     ��          ��      
+echo            ��         ���    �������    ���       
+echo        �������              ����   ������������   
+echo     �����    ����        �����       ��       ��� 
+echo   ���           ������������        ����         �
+echo  �                 ��           ��������       �� 
+echo  ��                ��        ��������  ���������  
+echo   ���            �����  �����������   ��          
+echo     ��������������   ������������     �           
+echo               ��      �������        ��           
+echo               �         ���        ���            
+echo              ��        ��  �����������            
+echo              �        ��        ������            
+echo             �      ���             ��             
+echo               �������        
+pause
+goto menu
+
+:aranha
+echo %time% %date% aranha aberto ,banco de imajens >> registro.txt
+cls
+echo            $               $           
+echo          $$                 $$         
+echo         $$                   $$        
+echo        $$                     $$       
+echo        $$                     $$       
+echo        $$                     $$       
+echo         $$                   $$        
+echo     $$  $$                   $$  $$    
+echo    $$   $$                   $$   $$   
+echo   $$     $$                 $$     $$  
+echo   $       $$$             $$$       $  
+echo   $$       $$$           $$$       $$  
+echo   $$$       $$$  $$$$$  $$$       $$$  
+echo    $$$$$$    $$$$$$$$$$$$$   $$$$$$$   
+echo         $$$$$$$$$$$$$$$$$$$$$$         
+echo    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$    
+echo  $$$ $$$$$$$$$$$$$$$$$$$$$$$$$$ $$$   
+echo  $$$         $$$$$$$$$$$$         $$$  
+echo $$         $$$$$$$$$$$$$$$$$        $$ 
+echo $$     $$$$$$$$$$$$$$$$$$$$$$$$     $$ 
+echo $$     $$$  $$$$$$$$$$$$$$$$  $$$     $$
+echo $$    $$   $$$$$$$  $$$$$$$   $$    $$ 
+echo  $    $$   $$$$$$$  $$$$$$$   $$    $  
+echo   $   $$   $$$$$$$$$$$$$$$$   $$   $   
+echo    $  $$    $$$$$$$$$$$$$$    $$  $    
+echo       $$     $$$$$$$$$$$$     $$       
+echo       $$       $$$$$$$$       $$       
+echo        $$                    $$        
+pause
+goto menu
 
 
 
